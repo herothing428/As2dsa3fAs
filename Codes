@@ -1,0 +1,144 @@
+{
+	"Plasma": {
+		"Moves": ["Dragon Pulse", "Aura Sphere", "Flash Cannon", "Nasty Plot"],
+		"PokemonName": "Riolu",
+		"Nature": "Timid",
+		"Nickname": "Riolu",
+		"Pokeball": "Pokeball",
+		"Level": "Badge",
+		"Gender": "Random",
+		"Shiny": true,
+		"IVs": {
+			"SpA": 31,
+			"HP": 31,
+			"Speed": 31,
+			"SpD": 31,
+			"Def": 31,
+			"Atk": 31
+		},
+		"OT": "The Indigo Team",
+		"Form": "Beater",
+		"Aura": "Valentine Heart",
+		"EVs": {
+			"SpA": 252,
+			"HP": 4,
+			"Speed": 252,
+			"SpD": 0,
+			"Def": 0,
+			"Atk": 0
+		},
+		"Allowed": true
+	},
+	"Premium": {
+		"Moves": ["Psychic", "Ice Beam", "Thunderbolt", "Flamethrower"],
+		"PokemonName": "Mew",
+		"Nature": "Adamant",
+		"Nickname": "Mew",
+		"Pokeball": "Pokeball",
+		"Level": "Badge",
+		"Gender": "Random",
+		"Shiny": true,
+		"IVs": {
+			"SpA": 31,
+			"HP": 31,
+			"Speed": 31,
+			"SpD": 31,
+			"Def": 31,
+			"Atk": 31
+		},
+		"OT": "The Indigo Team",
+		"EVs": {
+			"SpA": 252,
+			"HP": 4,
+			"Speed": 252,
+			"SpD": 0,
+			"Def": 0,
+			"Atk": 0
+		},
+		"Allowed": true
+	},
+	"Aronic": {
+		"Moves": ["Earthquake", "Magnitude", "Waterfall", "Metal Claw"],
+		"PokemonName": "Aron",
+		"Nature": "Jolly",
+		"Nickname": "Aron",
+		"Pokeball": "Pokeball",
+		"Level": "Badge",
+		"Gender": "Random",
+		"Shiny": false,
+		"IVs": {
+			"SpA": 31,
+			"HP": 31,
+			"Speed": 31,
+			"SpD": 31,
+			"Def": 31,
+			"Atk": 31
+		},
+		"OT": "The Indigo Team",
+		"EVs": {
+			"SpA": 252,
+			"HP": 4,
+			"Speed": 252,
+			"SpD": 0,
+			"Def": 0,
+			"Atk": 0
+		},
+		"Allowed": true
+	},
+	"Metalic": {
+		"Moves": ["Earthquake", "Ice Beam", "Psychic", "Metal Claw"],
+		"PokemonName": "Beldum",
+		"Nature": "Jolly",
+		"Nickname": "Bud",
+		"Pokeball": "Pokeball",
+		"Level": "Badge",
+		"Gender": "Random",
+		"Shiny": false,
+		"IVs": {
+			"SpA": 31,
+			"HP": 31,
+			"Speed": 31,
+			"SpD": 31,
+			"Def": 31,
+			"Atk": 31
+		},
+		"OT": "The Indigo Team",
+		"EVs": {
+			"SpA": 0,
+			"HP": 252,
+			"Speed": 4,
+			"SpD": 0,
+			"Def": 0,
+			"Atk": 252
+		},
+		"Allowed": true
+	},
+	"SorryForShutDown": {
+		"Moves": ["Water Shuriken", "Scald", "Double Team", "Hidden Power"],
+		"PokemonName": "Greninja",
+		"Nature": "Timid",
+		"Nickname": "Greninja",
+		"Pokeball": "Pokeball",
+		"Level": "Badge",
+		"Gender": "Random",
+		"Shiny": true,
+		"IVs": {
+			"SpA": 31,
+			"HP": 31,
+			"Speed": 31,
+			"SpD": 31,
+			"Def": 31,
+			"Atk": 31
+		},
+		"OT": "The Indigo Team",
+		"EVs": {
+			"SpA": 0,
+			"HP": 252,
+			"Speed": 4,
+			"SpD": 0,
+			"Def": 0,
+			"Atk": 252
+		},
+		"Allowed": false
+	}
+}

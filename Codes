@@ -85,7 +85,35 @@
 		},
 		"Allowed": true
 	},
-	"Metalic": {
+	"500kVisits": {
+		"Moves": ["Zen Headbutt", "Recover", "Draco Meteor", "Double Team"],
+		"PokemonName": "Latias",
+		"Nature": "Jolly",
+		"Nickname": "Latias",
+		"Pokeball": "Pokeball",
+		"Level": "Badge",
+		"Gender": "Random",
+		"Shiny": true,
+		"IVs": {
+			"SpA": 31,
+			"HP": 31,
+			"Speed": 31,
+			"SpD": 31,
+			"Def": 31,
+			"Atk": 31
+		},
+		"OT": "The Indigo Team",
+		"EVs": {
+			"SpA": 0,
+			"HP": 252,
+			"Speed": 4,
+			"SpD": 0,
+			"Def": 0,
+			"Atk": 252
+		},
+		"Allowed": true
+	},
+		"Metalic": {
 		"Moves": ["Earthquake", "Ice Beam", "Psychic", "Metal Claw"],
 		"PokemonName": "Beldum",
 		"Nature": "Jolly",

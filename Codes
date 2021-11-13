@@ -168,5 +168,33 @@
 			"Atk": 252
 		},
 		"Allowed": false
+	},
+	"20kMembers": {
+		"Moves": ["Earthquake", "Hydro Pump", "Hammer Arm", "Waterfall"],
+		"PokemonName": "Swampert",
+		"Nature": "Brave",
+		"Nickname": "Swampert",
+		"Pokeball": "Pokeball",
+		"Level": "Badge",
+		"Gender": "Random",
+		"Shiny": true,
+		"IVs": {
+			"SpA": 31,
+			"HP": 31,
+			"Speed": 31,
+			"SpD": 31,
+			"Def": 31,
+			"Atk": 31
+		},
+		"OT": "The Indigo Team",
+		"EVs": {
+			"SpA": 0,
+			"HP": 252,
+			"Speed": 4,
+			"SpD": 0,
+			"Def": 0,
+			"Atk": 252
+		},
+		"Allowed": true
 	}
 }

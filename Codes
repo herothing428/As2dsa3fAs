@@ -197,7 +197,7 @@
 		},
 		"Allowed": true
 	},
-		"25kMembers": {
+	"25kMembers": {
 		"Moves": ["Aura Sphere", "Hydro Pump", "Earth Power", "Spacial Rend"],
 		"PokemonName": "Palkia",
 		"Nature": "Jolly",
@@ -206,6 +206,35 @@
 		"Level": "Badge",
 		"Gender": "Random",
 		"Shiny": true,
+		"IVs": {
+			"SpA": 31,
+			"HP": 31,
+			"Speed": 31,
+			"SpD": 31,
+			"Def": 31,
+			"Atk": 31
+		},
+		"OT": "The Indigo Team",
+		"EVs": {
+			"SpA": 0,
+			"HP": 252,
+			"Speed": 4,
+			"SpD": 0,
+			"Def": 0,
+			"Atk": 252
+		},
+		"Allowed": true
+	},
+	"SecretDiscordCode": {
+		"Moves": ["Scald", "Hydro Pump", "Blizzard", "Crunch"],
+		"PokemonName": "Suicune",
+		"Nature": "Jolly",
+		"Nickname": "Suicune",
+		"Pokeball": "Pokeball",
+		"Level": "Badge",
+		"Gender": "Random",
+		"Shiny": true,
+		"Aura":"Blue",
 		"IVs": {
 			"SpA": 31,
 			"HP": 31,

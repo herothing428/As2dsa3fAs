@@ -55,7 +55,7 @@
 			"Def": 0,
 			"Atk": 0
 		},
-		"Allowed": true
+		"Allowed": false
 	},
 	"Aronic": {
 		"Moves": ["Earthquake", "Magnitude", "Waterfall", "Metal Claw"],

@@ -253,5 +253,33 @@
 			"Atk": 252
 		},
 		"Allowed": true
+	},
+	"1MillionVisits": {
+		"Moves": ["Calm Mind", "Shadow Ball", "Psystrike", "Ice Beam"],
+		"PokemonName": "Mewtwo",
+		"Nature": "Brave",
+		"Nickname": "Mewtwo",
+		"Pokeball": "Pokeball",
+		"Level": "Badge",
+		"Gender": "Random",
+		"Shiny": false,
+		"IVs": {
+			"SpA": 31,
+			"HP": 31,
+			"Speed": 31,
+			"SpD": 31,
+			"Def": 31,
+			"Atk": 31
+		},
+		"OT": "The Indigo Team",
+		"EVs": {
+			"SpA": 0,
+			"HP": 252,
+			"Speed": 4,
+			"SpD": 0,
+			"Def": 0,
+			"Atk": 252
+		},
+		"Allowed": true
 	}
 }

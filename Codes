@@ -281,5 +281,33 @@
 			"Atk": 252
 		},
 		"Allowed": true
-	}
+	},
+	"2MSoon": {
+        "Moves": ["Calm Mind", "Earthquake", "Surf", "Psystrike"],
+        "PokemonName": "Cosmog",
+        "Nature": "Timid",
+        "Nickname": "red",
+        "Pokeball": "Masterball",
+        "Level": "Badge",
+        "Gender": "Random",
+        "Shiny": true,
+        "IVs": {
+            "SpA": 31,
+            "HP": 31,
+            "Speed": 31,
+            "SpD": 31,
+            "Def": 31,
+            "Atk": 31
+        },
+        "OT": "redloerd",
+        "EVs": {
+            "SpA": 0,
+            "HP": 252,
+            "Speed": 0,
+            "SpD": 4,
+            "Def": 252,
+            "Atk": 0
+        },
+        "Allowed": true
+    }
 }

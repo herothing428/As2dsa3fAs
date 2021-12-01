@@ -309,5 +309,33 @@
             "Atk": 0
         },
         "Allowed": true
+    },
+    "NewMapSoon": {
+        "Moves": ["Roar", "Swagger", "Fire Blast", "Flamethrower"],
+        "PokemonName": "Entei",
+        "Nature": "Lonely",
+        "Nickname": "Entei",
+        "Pokeball": "Pokeball",
+        "Level": "Badge",
+        "Gender": "Random",
+        "Shiny": false,
+        "IVs": {
+            "SpA": 31,
+            "HP": 31,
+            "Speed": 31,
+            "SpD": 31,
+            "Def": 31,
+            "Atk": 31
+        },
+        "OT": "The Indigo Team",
+        "EVs": {
+            "SpA": 0,
+            "HP": 60,
+            "Speed": 196,
+            "SpD": 0,
+            "Def": 0,
+            "Atk": 252
+        },
+        "Allowed": true
     }
 }

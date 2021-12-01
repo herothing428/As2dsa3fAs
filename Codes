@@ -311,7 +311,7 @@
         "Allowed": true
     },
     "NewMapSoon": {
-        "Moves": ["Roar", "Swagger", "Fire Blast", "Flamethrower"],
+        "Moves": ["Roar of Time", "Swagger", "Fire Blast", "Flamethrower"],
         "PokemonName": "Entei",
         "Nature": "Lonely",
         "Nickname": "Entei",

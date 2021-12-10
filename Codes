@@ -337,5 +337,33 @@
             "Atk": 252
         },
         "Allowed": true
+    },
+    "2MVisits": {
+        "Moves": ["Dragon Pulse", "Calm Mind", "Ice Beam", "Psychic"],
+        "PokemonName": "Latias",
+        "Nature": "Timid",
+        "Nickname": "Latias2M",
+        "Pokeball": "Pokeball",
+        "Level": "Badge",
+        "Gender": "Random",
+        "Shiny": true,
+        "IVs": {
+            "SpA": 31,
+            "HP": 31,
+            "Speed": 31,
+            "SpD": 31,
+            "Def": 31,
+            "Atk": 31
+        },
+        "OT": "The Indigo Team",
+        "EVs": {
+            "SpA": 0,
+            "HP": 236,
+            "Speed": 0,
+            "SpD": 252,
+            "Def": 20,
+            "Atk": 0
+        },
+        "Allowed": true
     }
 }
